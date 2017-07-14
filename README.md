@@ -75,7 +75,7 @@ Python 3
 
 ## Results ##
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![image](https://user-images.githubusercontent.com/21295042/28233936-9ee61280-68c8-11e7-8bb8-abb9c7980af5.png)
 
 
 The algorithm with pruning was run 20 times. 
